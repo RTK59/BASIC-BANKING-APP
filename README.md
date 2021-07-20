@@ -12,7 +12,9 @@ Transaction history stores the data of successful transaction and failed transac
 
 ## Tech
 
-TECHNOLOGY USED:
-Language: JAVA
-Database: SQLite 
-IDE: Android Studio 
+TECHNOLOGY and TOOLS USED:
+Language: JAVA.
+Database: SQLite.
+IDE: Android Studio.
+
+
